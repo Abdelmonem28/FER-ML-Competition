@@ -25,20 +25,7 @@ Your goal is to maximize **classification accuracy** on the **hidden private tes
   - 5 → Surprise  
   - 6 → Neutral
 
-## 📋 Repository Contents
 
-FER-ML-Competition/
-├── data/
-│ ├── train.csv # Training + public test data
-│ └── test.csv # Private test features only
-├── evaluation/
-│ └── evaluate.py # Evaluation script
-├── submissions/ # Place your submission.csv here
-├── starter_notebooks/ # Optional baseline models
-├── .github/workflows/
-│ └── evaluate.yml # GitHub Actions for automatic PR evaluation
-├── README.md
-└── rules.md
 
 ### Public Files:
 - `data/train.csv` → Training + public test data (includes emotion labels)
@@ -90,12 +77,12 @@ To ensure fairness:
 - ❌ No submission of multiple models in a single PR  
 - ❌ No use of pretrained deep learning models unless approved  
 
-//---
+---
 
-//## 🕐 Submission Limits
+## 🕐 Submission Limits
 
-//- Each participant may submit **one Pull Request per day**.
-//- Only the **latest submission** counts toward the leaderboard.
+- Each participant may submit **one Pull Request per day**.
+- Only the **latest submission** counts toward the leaderboard.
 
 ---
 
