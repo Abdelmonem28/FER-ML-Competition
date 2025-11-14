@@ -31,7 +31,7 @@ Your goal is to maximize **classification accuracy** on the **hidden private tes
 the dataset is hosted externally on **Google Drive**.
 
 ### 🔗 **Download Link**
-➡️ [Click here to access the dataset](PASTE_YOUR_GOOGLE_DRIVE_LINK_HERE)
+➡️ [Click here to access the dataset](https://drive.google.com/drive/folders/1xyPHM1E1YMBFJ6pc0jg4brhvNi_vUcCJ?usp=sharing)
 
 ### Private Files:
 - Test_data → Hidden ground-truth data used for automatic evaluation  
